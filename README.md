@@ -22,8 +22,8 @@ I'm a Practising **Data Scientist!**. I love to work with **Deep Learning, Machi
 
 
 ### Youtube Videos: 
-![RAravindDS](https://img.youtube.com/vi/_McXbkZuGNc/0.jpg) 
-<img src = "https://img.youtube.com/vi/_McXbkZuGNc/0.jpg" width="256" />
+[![RAravindDS](https://img.youtube.com/vi/_McXbkZuGNc/0.jpg)](https://youtube.com/watch=?v=_McXbkZuGNc)
+
 
 
 
