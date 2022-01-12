@@ -16,7 +16,10 @@ I'm a Practising **Data Scientist!**. I love to work with **Deep Learning, Machi
 * Problem Solving
 
 ## Examples of Work: 
+* [Hit to reach the article](https://www.linkedin.com/pulse/introduction-state-art-ml-algo-artificial-neurons-ai)
+
 <img src = "https://github.com/RAravindDS/RAravindDS/blob/main/State%20of%20art.gif" width="256" /> 
+
 
 
 
