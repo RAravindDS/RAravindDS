@@ -3,13 +3,17 @@
 
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm  Aravind R from India
 
-#### 💞 Practicing Data Scientist! & Technical Writer in [Artifical Neurons.AI](https://www.linkedin.com/company/artificial-neurons-ai/?viewAsMember=true) 
+#### 💞 Machine Learning Enginner at Quixy | Upcomming MLOPS Engineer 🤩
 
 :email: Reach me out! 
 
 [![Twitter Badge](https://img.shields.io/badge/-@Aravindan-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Aravind09920838) [![Mail Badge](https://img.shields.io/badge/-Aravind-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCOUufoRvb4H8irfqwjxCMnQ) [![Linkedin Badge](https://img.shields.io/badge/-AravindanR-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravindds/) [![Mail Badge](https://img.shields.io/badge/-RAravind.DS-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:raravind.ds@gmail.com)
 
 ## Skills: 
+* 😗 K8s 
+* 😋 Docker 
+* 😲 LINUX 
+* 🤩 GIT 
 * 💻 Machine Learning
 * 💞 Deep Learning 
 * ❄️ Python 
