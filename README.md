@@ -6,7 +6,7 @@
 
 Aravind is a <i>data scientist</i> with 1.5 years of professional experience. He currently works at Fractal Analytics as an MLOps Engineer. Aravind is highly disciplined and enjoys learning new topics daily, focusing on <i>technical skills</i> 🧑‍💻️, <i>soft skills</i> 🤹, and <i>problem-solving</i>.
 
-#### Contributions
+## Contributions
 He contributed to <b>open source project</b> called **<i>[instructor embedding](https://github.com/xlang-ai/instructor-embedding)</i>** moreover he is also a **<i>[notebook expert](https://www.kaggle.com/aravindanr22052001)</i>** on Kaggle. 
 Aravind is skilled in <b><i>LLMs</i></b> has    <b>published</b> a **[python package](https://pypi.org/project/charLLM/)** called `charLLms` 🐍, which enables users to train their own GPT on a CPU. 
 
