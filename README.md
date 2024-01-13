@@ -1,12 +1,18 @@
-![Practicing Data Scientist!](https://github.com/RAravindDS/RAravindDS/blob/main/Yuppies%20Collage%20General%20LinkdIn%20Banner.png)
+<!-- ![Practicing Data Scientist!](https://github.com/RAravindDS/RAravindDS/blob/main/Yuppies%20Collage%20General%20LinkdIn%20Banner.png) -->
 
 
-### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm  Aravind R from India
+### <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Hey Everyone, I'm  Aravind ✨
 
-#### 💞 Machine Learning Enginner at Quixy | Upcomming MLOPS Engineer 🤩 | Notebooks Expert
+
+Aravind is a <i>data scientist</i> with 1.5 years of professional experience. He currently works at Fractal Analytics as an MLOps Engineer. Aravind is highly disciplined and enjoys learning new topics daily, focusing on <i>technical skills</i> 🧑‍💻️, <i>soft skills</i> 🤹, and <i>problem-solving</i>.
+
+#### Contributions
+He contributed to <b>open source project</b> called **<i>[instructor embedding](https://github.com/xlang-ai/instructor-embedding)</i>** moreover he is also a **<i>[notebook expert](https://www.kaggle.com/aravindanr22052001)</i>** on Kaggle. 
+Aravind is skilled in <b><i>LLMs</i></b> has    <b>published</b> a **[python package](https://pypi.org/project/charLLM/)** called `charLLms` 🐍, which enables users to train their own GPT on a CPU. 
+
+
 
 :email: Reach me out! 
-
 [![Twitter Badge](https://img.shields.io/badge/-@Aravindan-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Aravind09920838) [![Mail Badge](https://img.shields.io/badge/-Aravind-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCOUufoRvb4H8irfqwjxCMnQ) [![Linkedin Badge](https://img.shields.io/badge/-AravindanR-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravindds/) [![Mail Badge](https://img.shields.io/badge/-RAravind.DS-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:raravind.ds@gmail.com)
 
 ## Skills: 
