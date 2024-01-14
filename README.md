@@ -18,26 +18,15 @@ Aravind is skilled in <b><i>LLMs</i></b> has    <b>published</b> a **[python pac
 
 
 
-## Skills: 
-* 😗 K8s 
-* 😋 Docker 
-* 😲 LINUX 
-* 🤩 GIT 
-* 💻 Machine Learning
-* 💞 Deep Learning 
-* ❄️ Python 
-* 😁 SQL 
-* 📝 Content Writing
-* 📈 Time Series 
-* 🌆 NLP 
-* ⚠️ PYTORCH, SWAGGER, FLASK
+### 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GRAFANA](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white&color=%23F46800) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![PROMETHEUS](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white&color=%23E6522C) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7)
 
-## Languages and Tools: 
 
-[![Python Batch](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=Python&logoColor=61DBFB)](#) [![Pytorch Badge](https://img.shields.io/badge/-Pytorch-F0DB4F?style=for-the-badge&labelColor=black&logo=pytorch&logoColor=F0DB4F)](#) [![PowerBI Badge](https://img.shields.io/badge/-PowerBI-007acc?style=for-the-badge&labelColor=black&logo=PowerBI&logoColor=007acc)](#) [![SQL Badge](https://img.shields.io/badge/-POSTGRESQL-3C873A?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=3C873A)](#) [![Machine Badge](https://img.shields.io/badge/-MachineLearning-e535ab?style=for-the-badge&labelColor=black&logo=python&logoColor=e535ab)](#) [![NLP Badge](https://img.shields.io/badge/-NaturalLanguageProcessing-ffc107?style=for-the-badge&labelColor=black&logo=python&logoColor=ffc107)](#) 
-[![Machine Batch](https://img.shields.io/badge/-TimeSeries-61DBFB?style=for-the-badge&labelColor=black&logo=Python&logoColor=61DBFB)](#)
-[![Pytorch Badge](https://img.shields.io/badge/-DeepLearning-F0DB4F?style=for-the-badge&labelColor=black&logo=pytorch&logoColor=F0DB4F)](#)
-[![PowerBI Badge](https://img.shields.io/badge/-ComputerVision-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc)](#)
+### 📊 GitHub Stats:
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=RAravindDS&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=RAravindDS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
 
 ### You can reach me here: 
 
@@ -45,16 +34,7 @@ Aravind is skilled in <b><i>LLMs</i></b> has    <b>published</b> a **[python pac
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Aravind on Twitter" title="Follow Raymo111 on Twitter"/>](https://twitter.com/Aravind09920838)
 
 
-#### Profile visits: 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=RAravindDS.RAravindDS&left_color=green&right_color=red)
-
-
-#### Coading Status: 
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
 
 ## Examples of My Work: 
 * [Hit to reach the article](https://www.linkedin.com/pulse/introduction-state-art-ml-algo-artificial-neurons-ai)
@@ -63,4 +43,4 @@ Aravind is skilled in <b><i>LLMs</i></b> has    <b>published</b> a **[python pac
 
 
 ### Youtube Videos: 
-![RAravindDS](https://img.youtube.com/vi/_McXbkZuGNc/0.jpg)](https://youtube.com/watch=?v=_McXbkZuGNc)
+[![RAravindDS](https://img.youtube.com/vi/_McXbkZuGNc/0.jpg)](https://youtube.com/watch=?v=_McXbkZuGNc)
