@@ -40,11 +40,9 @@ Aravind is skilled in <b><i>LLMs</i></b> has    <b>published</b> a **[python pac
 
 
 
-## Examples of My Work: 
-* [Hit to reach the article](https://www.linkedin.com/pulse/introduction-state-art-ml-algo-artificial-neurons-ai)
+### Check my articles and videos: 
+#### Articles: 
+* [my articles✨](https://www.linkedin.com/pulse/introduction-state-art-ml-algo-artificial-neurons-ai)
 
-<img src = "https://github.com/RAravindDS/RAravindDS/blob/main/State%20of%20art.gif" width="256" /> 
-
-
-### Youtube Videos: 
-[![RAravindDS](https://img.youtube.com/vi/_McXbkZuGNc/0.jpg)](https://youtube.com/watch=?v=_McXbkZuGNc)
+#### Youtube Videos: 
+  [![RAravindDS](https://img.youtube.com/vi/_McXbkZuGNc/0.jpg)](https://www.youtube.com/playlist?list=PLHCS-b6AnQZmaA9yJ2jbg4wQzfE2-8Jqh)
