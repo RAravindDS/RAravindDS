@@ -3,7 +3,7 @@
 
 ### <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Hey Everyone, I'm  Aravind ✨
 
-<img src= "https://github.com/RAravindDS/RAravindDS/blob/68edc517e278d5818870644f215bbca78c9e5bd0/image1.png" width="400px">
+<img src= "github_intro.gif">
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=RAravindDS.RAravindDS&color=00cf00)
 
