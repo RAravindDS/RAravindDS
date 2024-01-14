@@ -5,7 +5,10 @@
 
 <img src= "https://github.com/RAravindDS/RAravindDS/blob/68edc517e278d5818870644f215bbca78c9e5bd0/image1.png" width="400px">
 
-Aravind is a <i>data scientist</i> with 1.5 years of professional experience. He currently works at Fractal Analytics as an MLOps Engineer. Aravind is highly disciplined and enjoys learning new topics daily, focusing on <i>technical skills</i> 🧑‍💻️, <i>soft skills</i> 🤹, and <i>problem-solving</i>.
+![visitors](https://vbr.wocr.tk/badge?page_id=RAravindDS.RAravindDS&color=00cf00)
+
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+Aravind is a <i>data scientist</i> 📈 with 1.5 years of professional experience. He currently works at Fractal Analytics as an MLOps Engineer. Aravind is highly disciplined and enjoys learning new topics daily, focusing on <i>technical skills</i> 🧑‍💻️, <i>soft skills</i> 🤹, and <i>problem-solving</i>.
 
 ### Contributions
 He contributed to <b>open source project</b> called **<i>[instructor embedding](https://github.com/xlang-ai/instructor-embedding)</i>** moreover he is also a **<i>[notebook expert](https://www.kaggle.com/aravindanr22052001)</i>** on Kaggle. 
@@ -13,8 +16,7 @@ Aravind is skilled in <b><i>LLMs</i></b> has    <b>published</b> a **[python pac
 
 
 
-:email: Reach me out! 
-[![Twitter Badge](https://img.shields.io/badge/-@Aravindan-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Aravind09920838) [![Mail Badge](https://img.shields.io/badge/-Aravind-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCOUufoRvb4H8irfqwjxCMnQ) [![Linkedin Badge](https://img.shields.io/badge/-AravindanR-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravindds/) [![Mail Badge](https://img.shields.io/badge/-RAravind.DS-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:raravind.ds@gmail.com)
+
 
 ## Skills: 
 * 😗 K8s 
@@ -37,13 +39,15 @@ Aravind is skilled in <b><i>LLMs</i></b> has    <b>published</b> a **[python pac
 [![Pytorch Badge](https://img.shields.io/badge/-DeepLearning-F0DB4F?style=for-the-badge&labelColor=black&logo=pytorch&logoColor=F0DB4F)](#)
 [![PowerBI Badge](https://img.shields.io/badge/-ComputerVision-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc)](#)
 
+### You can reach me here: 
+
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Aravind on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://www.linkedin.com/in/aravindds/)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Aravind on Twitter" title="Follow Raymo111 on Twitter"/>](https://twitter.com/Aravind09920838)
+
+
 #### Profile visits: 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=RAravindDS.RAravindDS&left_color=green&right_color=red)
-
-#### Profile Stats: 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAravindDS&show_icons=true&theme=radical)
 
 
 #### Coading Status: 
@@ -59,4 +63,4 @@ Aravind is skilled in <b><i>LLMs</i></b> has    <b>published</b> a **[python pac
 
 
 ### Youtube Videos: 
-[![RAravindDS](https://img.youtube.com/vi/_McXbkZuGNc/0.jpg)](https://youtube.com/watch=?v=_McXbkZuGNc)
+![RAravindDS](https://img.youtube.com/vi/_McXbkZuGNc/0.jpg)](https://youtube.com/watch=?v=_McXbkZuGNc)
